@@ -36,7 +36,7 @@ function setup() {
   box20 = new Box(700, 100, 70, 70);
 
   ball = new Ball(200, 200, 80, 80);
-  rope = new Rope(ball.body, { x: 450, y: 50 });
+  rope = new Rope(ball.body, { x: 480, y: 50 });
 
 }
 
